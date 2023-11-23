@@ -1,0 +1,48 @@
+{
+    "series": [
+		{
+			"TYPE": 2,
+			"ID_TMD": 90260,
+			"NAME_TMD": "Esta Mierda me Supera",
+			"NAME_ORIGINAL": "I Am Not Okay with This - Esta mierda me supera",
+			"GENERO": "drama comedia fantasia",
+			"URL_IMAGE": "/1QpD6zHurIGxekQYIQtpZVYrWPJ.jpg",
+			"VOTE_AVERAGE": 8.4,
+			"URL_FOLDER": "XBeeEQqa/2CvEpxB/laHpYN2Cnwc49Zntk4CAcpVcow0q11Nw8k9uDbMplnMaQ6P6LXU0l6LTrZG\ngMJNSJEQRQ==\n",
+			"FIRST_AIR_DATE": "2020-02-26"
+		},
+		{
+			"TYPE": 2,
+			"ID_TMD": 96160,
+			"NAME_TMD": "Holo, Mi amor (2020)",
+			"NAME_ORIGINAL": "나 홀로 그대 - Holo, mi amor",
+			"GENERO": "drama",
+			"URL_IMAGE": "/umvrWjTyVgW9ulC4noFd2kuZJRM.jpg",
+			"VOTE_AVERAGE": 8.4,
+			"URL_FOLDER": "XBeeEQqa/2CvEpxB/laHpXSMw+3QPKJefwFy7Hl9SIn0J2O3Rh7aeGkUQzVWdwjLpYOoSayt9LdU\nQEe+7U5oKw==\n",
+			"FIRST_AIR_DATE": "2020-02-07"
+		},
+		{
+			"TYPE": 2,
+			"ID_TMD": 99633,
+			"NAME_TMD": "Puerta 7 (2020)",
+			"NAME_ORIGINAL": "Puerta 7 - Puerta 7",
+			"GENERO": "drama crimen",
+			"URL_IMAGE": "/nLQkRwxwKJqbnJZG3vh0UcyYVxj.jpg",
+			"VOTE_AVERAGE": 7.3,
+			"URL_FOLDER": "XBeeEQqa/2CvEpxB/laHpePZXGzukw1z5vle2JTvbGRSObFtelU2yXFocZlrYxC3x7Szx/vs/8IL\nBRu1ZovMGw==\n",
+			"FIRST_AIR_DATE": "2020-02-21"
+		},
+		{
+			"TYPE": 2,
+			"ID_TMD": 84661,
+			"NAME_TMD": "The Outsider El visitante (2020)",
+			"NAME_ORIGINAL": "The Outsider - El visitante",
+			"GENERO": "misterio drama crimen",
+			"URL_IMAGE": "/xZnv6zYUJkUSWscEl1wwpUhmQYx.jpg",
+			"VOTE_AVERAGE": 7.5,
+			"URL_FOLDER": "XBeeEQqa/2CvEpxB/laHpcYKgEaSuOtlCatkgHuxrPD0Nr3zOwNmIiavGbaN+qtRYaeCwKSg9+I5\n3R6tvABEyw==\n",
+			"FIRST_AIR_DATE": "2020-01-12"
+		}
+	]
+}
